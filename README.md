@@ -9,7 +9,7 @@
 ## Cite
 If you use RWRF-ABlending in your work please cite our paper:
 
-*BibTex：
+* BibTex：
 @article{2025A,
   title={A safety risk assessment method based on conditionally constrained game theory and adaptive ensemble learning: Application to wheat flour and rice},
   author={ Sheng, Wanbao  and  Jiang, Huawei  and  Yang, Zhen  and  Zhao, Like  and  Jin, Junwei },
