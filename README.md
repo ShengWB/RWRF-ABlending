@@ -1,7 +1,7 @@
 # RWRF-ABlending
 ## Paper
 （Food Research International 2025） A safety risk assessment method based on conditionally constrained game theory and adaptive ensemble learning: Application to wheat flour and rice
-![image](image/model.png)
+![image](Image/model.png)
 
 ## Cite
 If you use RWRF-ABlending in your work please cite our paper:
